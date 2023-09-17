@@ -14,16 +14,14 @@
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C" alt="Dev.to"/>
 </center>
 
-## 👨🏻‍🎓 My academic experience:
+## 👨🏻‍🎓 Academic experience:
   - **Master of Science**: Computer Science Data Analytics at [Cranfield University](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics)
     - Computational Intelligence for Data Analytics: Machine Learning, Artificial Intelligence, HPC, Cloud Computing, Big Data, 
 
 ### 📝 I regularly write articles:
   - On [Medium](https://medium.com/@yusuf.ganiyu) about programing, data science and AI
-  - On [Dev.to](https://dev.to/airscholar) about programing, data science and AI
-  - On [Stackoverflow](https://stackoverflow.com/users/6070546/yusuf-ganiyu) about programing, data science and AI
   - On [HackerNoon](https://hackernoon.com/u/airscholar) about programing, data science and AI
-
+  - On [Dev.to](https://dev.to/airscholar) about programing, data science and AI
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
@@ -40,7 +38,6 @@
 - [Answer by Yusuf Ganiyu for JSON to Java object deserialization exception](https://stackoverflow.com/questions/76810528/json-to-java-object-deserialization-exception/76810644#76810644)
 - [Answer by Yusuf Ganiyu for CryptoJS AES decrypt Hex String?](https://stackoverflow.com/questions/72233526/cryptojs-aes-decrypt-hex-string/76810559#76810559)
 <!-- STACKOVERFLOW:END -->
-
 
 # Languages and Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
