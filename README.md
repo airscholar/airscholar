@@ -31,6 +31,11 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Yusuf Ganiyu for javax.persistence.TransactionRequiredException: Executing an update/delete query : Spring boot 2.7.5](https://stackoverflow.com/questions/77001805/javax-persistence-transactionrequiredexception-executing-an-update-delete-query/77001891#77001891)
+- [Answer by Yusuf Ganiyu for How to generate a number range with N decimal places](https://stackoverflow.com/questions/76826678/how-to-generate-a-number-range-with-n-decimal-places/76826964#76826964)
+- [Answer by Yusuf Ganiyu for I&#39;m learning javascript and react and I don&#39;t understand why the function returns Array&lpar;0&rpar;](https://stackoverflow.com/questions/76810634/im-learning-javascript-and-react-and-i-dont-understand-why-the-function-return/76810710#76810710)
+- [Answer by Yusuf Ganiyu for JSON to Java object deserialization exception](https://stackoverflow.com/questions/76810528/json-to-java-object-deserialization-exception/76810644#76810644)
+- [Answer by Yusuf Ganiyu for CryptoJS AES decrypt Hex String?](https://stackoverflow.com/questions/72233526/cryptojs-aes-decrypt-hex-string/76810559#76810559)
 <!-- STACKOVERFLOW:END -->
 
 
