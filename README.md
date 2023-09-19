@@ -88,3 +88,5 @@
 
 ## 🔥 Github Streaks</b></summary>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=airscholar&hide_border=true" />
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=airscholar&label=Profile%20views&color=0e75b6&style=flat" alt="airscholar" /></p>
