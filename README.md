@@ -25,11 +25,11 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
+- [DBT and BigQuery: A Powerful Duo for Modern Data Engineering](https://medium.com/@yusuf.ganiyu/dbt-and-bigquery-a-powerful-duo-for-modern-data-engineering-5f4ba97fd0c9?source=rss-e88756b73479------2)
 - [Japan Visa Analytics: End-to-End Data Engineering with PySpark, Plotly, and Docker on Azure](https://aws.plainenglish.io/japan-visa-analytics-end-to-end-data-engineering-with-pyspark-plotly-and-docker-on-azure-6e866f47596e?source=rss-e88756b73479------2)
 - [Football Data Analytics: From Wikipedia Through Azure and Apache Airflow to Tableau](https://medium.com/towards-data-engineering/football-data-analytics-from-wikipedia-through-azure-and-apache-airflow-to-tableau-5edeb035cc0b?source=rss-e88756b73479------2)
 - [Python’s Higher Order Functions Demystified](https://python.plainenglish.io/pythons-higher-order-functions-demystified-47b46523e42d?source=rss-e88756b73479------2)
 - [Google’s Latexify: Crafting Mathematical Formulas the Pythonic Way](https://python.plainenglish.io/googles-latexify-crafting-mathematical-formulas-the-pythonic-way-613fe4ef2600?source=rss-e88756b73479------2)
-- [Realtime Data Engineering Project With Airflow, Kafka, Spark, Cassandra and Postgres](https://medium.com/@yusuf.ganiyu/realtime-data-engineering-project-with-airflow-kafka-spark-cassandra-and-postgres-804bcd963974?source=rss-e88756b73479------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## StackOverflow Activity
