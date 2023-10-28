@@ -25,11 +25,11 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
+- [Real-time Streaming for Sentiment Analysis with Sockets, Spark, OpenAI, Kafka, and Elasticsearch](https://medium.com/@yusuf.ganiyu/real-time-streaming-for-sentiment-analysis-with-sockets-spark-openai-kafka-and-elasticsearch-a577b35a7cb9?source=rss-e88756b73479------2)
 - [Data Engineering with Reddit, Airflow, Celery, Postgres, S3, AWS Glue, Athena, Redshift](https://aws.plainenglish.io/data-engineering-with-reddit-airflow-celery-postgres-s3-aws-glue-athena-redshift-96319d7a46bd?source=rss-e88756b73479------2)
 - [YouTube Realtime Data Engineering with Google Cloud, Apache Kafka, KsqlDb, Docker, Confluent…](https://aws.plainenglish.io/youtube-realtime-data-engineering-with-google-cloud-apache-kafka-ksqldb-docker-confluent-1ed9e94c0efe?source=rss-e88756b73479------2)
 - [DBT and BigQuery: A Powerful Duo for Modern Data Engineering](https://blog.stackademic.com/dbt-and-bigquery-a-powerful-duo-for-modern-data-engineering-5f4ba97fd0c9?source=rss-e88756b73479------2)
 - [Japan Visa Analytics: End-to-End Data Engineering with PySpark, Plotly, and Docker on Azure](https://aws.plainenglish.io/japan-visa-analytics-end-to-end-data-engineering-with-pyspark-plotly-and-docker-on-azure-6e866f47596e?source=rss-e88756b73479------2)
-- [Football Data Analytics: From Wikipedia Through Azure and Apache Airflow to Tableau](https://medium.com/towards-data-engineering/football-data-analytics-from-wikipedia-through-azure-and-apache-airflow-to-tableau-5edeb035cc0b?source=rss-e88756b73479------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## StackOverflow Activity
