@@ -25,11 +25,11 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
+- [Apache Flink for Sales Analytics — End to End Data Engineering](https://medium.com/@yusuf.ganiyu/apache-flink-for-sales-analytics-end-to-end-data-engineering-db7a737f6f43?source=rss-e88756b73479------2)
 - [5 End-To-End Data Engineering Projects for FREE](https://medium.com/@yusuf.ganiyu/5-end-to-end-data-engineering-projects-for-free-6b3fecfbcc9b?source=rss-e88756b73479------2)
 - [Real-time Streaming for Sentiment Analysis with Sockets, Spark, OpenAI, Kafka, and Elasticsearch](https://python.plainenglish.io/real-time-streaming-for-sentiment-analysis-with-sockets-spark-openai-kafka-and-elasticsearch-a577b35a7cb9?source=rss-e88756b73479------2)
 - [Data Engineering with Reddit, Airflow, Celery, Postgres, S3, AWS Glue, Athena, Redshift](https://aws.plainenglish.io/data-engineering-with-reddit-airflow-celery-postgres-s3-aws-glue-athena-redshift-96319d7a46bd?source=rss-e88756b73479------2)
 - [YouTube Realtime Data Engineering with Google Cloud, Apache Kafka, KsqlDb, Docker, Confluent…](https://aws.plainenglish.io/youtube-realtime-data-engineering-with-google-cloud-apache-kafka-ksqldb-docker-confluent-1ed9e94c0efe?source=rss-e88756b73479------2)
-- [DBT and BigQuery: A Powerful Duo for Modern Data Engineering](https://blog.stackademic.com/dbt-and-bigquery-a-powerful-duo-for-modern-data-engineering-5f4ba97fd0c9?source=rss-e88756b73479------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## StackOverflow Activity
