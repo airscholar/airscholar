@@ -25,7 +25,7 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
-- [Real-time Streaming at Scale: Integrating Apache Flink, Kafka, Postgres, Elasticsearch, Kibana and…](https://medium.com/@yusuf.ganiyu/real-time-streaming-at-scale-integrating-apache-flink-kafka-postgres-elasticsearch-kibana-and-132a7fd59e00?source=rss-e88756b73479------2)
+- [Real-time Streaming at Scale: Integrating Apache Flink, Kafka, Postgres, Elasticsearch, Kibana and…](https://blog.stackademic.com/real-time-streaming-at-scale-integrating-apache-flink-kafka-postgres-elasticsearch-kibana-and-132a7fd59e00?source=rss-e88756b73479------2)
 - [7 End to End Data Engineering Projects That Sets you Apart from the Rest](https://medium.com/@yusuf.ganiyu/7-end-to-end-data-engineering-projects-that-sets-you-apart-from-the-rest-bd809fe5aa95?source=rss-e88756b73479------2)
 - [Change Data Capture &lpar;CDC&rpar; Realtime Streaming with Postgres, Debezium, Kafka, Apache Spark, and…](https://python.plainenglish.io/change-data-capture-cdc-realtime-streaming-with-postgres-debezium-kafka-apache-spark-and-slack-42f6ee74bc1c?source=rss-e88756b73479------2)
 - [Apache Flink for Sales Analytics — End to End Data Engineering](https://medium.com/towards-data-engineering/apache-flink-for-sales-analytics-end-to-end-data-engineering-db7a737f6f43?source=rss-e88756b73479------2)
