@@ -25,11 +25,11 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
+- [Kubernetes for Data Engineering: An End-to-End Guide](https://medium.com/@yusuf.ganiyu/kubernetes-for-data-engineering-an-end-to-end-guide-26c741a8c013?source=rss-e88756b73479------2)
 - [CI/CD For Modern Data Engineering](https://blog.stackademic.com/ci-cd-for-modern-data-engineering-b64d9e76393a?source=rss-e88756b73479------2)
 - [Robust Data Pipelines with Databricks, Spark, DBT, and Azure | Data Engineering Project](https://blog.stackademic.com/robust-data-pipelines-with-databricks-spark-dbt-and-azure-data-engineering-project-e5780fbc07a6?source=rss-e88756b73479------2)
 - [Why Big Data Platforms Return to SQL?](https://medium.com/@yusuf.ganiyu/why-big-data-platforms-return-to-sql-a337c257fd09?source=rss-e88756b73479------2)
 - [Building a Real-Time Election Voting System: An End-to-End Data Engineering Project](https://medium.com/@yusuf.ganiyu/building-a-real-time-election-voting-system-an-end-to-end-data-engineering-project-db372d0f5a39?source=rss-e88756b73479------2)
-- [Real-time Streaming at Scale: Integrating Apache Flink, Kafka, Postgres, Elasticsearch, Kibana and…](https://blog.stackademic.com/real-time-streaming-at-scale-integrating-apache-flink-kafka-postgres-elasticsearch-kibana-and-132a7fd59e00?source=rss-e88756b73479------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## StackOverflow Activity
