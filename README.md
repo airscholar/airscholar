@@ -25,7 +25,7 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top 5 Data Engineering Projects You Can’t Afford to Miss](https://medium.com/@yusuf.ganiyu/top-5-data-engineering-projects-you-cant-afford-to-miss-8764a6de6e99?source=rss-e88756b73479------2)
+- [Top 5 Data Engineering Projects You Can’t Afford to Miss](https://blog.stackademic.com/top-5-data-engineering-projects-you-cant-afford-to-miss-8764a6de6e99?source=rss-e88756b73479------2)
 - [Kubernetes for Data Engineering: An End-to-End Guide](https://blog.stackademic.com/kubernetes-for-data-engineering-an-end-to-end-guide-26c741a8c013?source=rss-e88756b73479------2)
 - [CI/CD For Modern Data Engineering](https://blog.stackademic.com/ci-cd-for-modern-data-engineering-b64d9e76393a?source=rss-e88756b73479------2)
 - [Robust Data Pipelines with Databricks, Spark, DBT, and Azure | Data Engineering Project](https://blog.stackademic.com/robust-data-pipelines-with-databricks-spark-dbt-and-azure-data-engineering-project-e5780fbc07a6?source=rss-e88756b73479------2)
