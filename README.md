@@ -15,13 +15,16 @@
 </center>
 
 ## 👨🏻‍🎓 Academic experience:
-  - **Master of Science**: Computer Science Data Analytics at [Cranfield University](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics)
-    - Computational Intelligence for Data Analytics: Machine Learning, Artificial Intelligence, HPC, Cloud Computing, Big Data
+  - **Master of Science**: Computational Intelligence and Data Analytics at [Cranfield University](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics)
 
 ### 📝 I regularly write articles:
   - On [Medium](https://medium.com/@yusuf.ganiyu) about programing, data science and AI
   - On [HackerNoon](https://hackernoon.com/u/airscholar) about programing, data science and AI
   - On [Dev.to](https://dev.to/airscholar) about programing, data science and AI
+
+## 📺 Latest Youtube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
