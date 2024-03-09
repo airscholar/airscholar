@@ -37,7 +37,7 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
-- [Real-Time Streaming Pipelines for Unstructured Data: An AWS End to End Data Engineering](https://medium.com/@yusuf.ganiyu/real-time-streaming-pipelines-for-unstructured-data-an-aws-end-to-end-data-engineering-5ad3a0b77b05?source=rss-e88756b73479------2)
+- [Real-Time Streaming Pipelines for Unstructured Data: An AWS End to End Data Engineering](https://towardsaws.com/real-time-streaming-pipelines-for-unstructured-data-an-aws-end-to-end-data-engineering-5ad3a0b77b05?source=rss-e88756b73479------2)
 - [Building a Smart City: An End-to-End Big Data Engineering Project](https://blog.stackademic.com/building-a-smart-city-an-end-to-end-big-data-engineering-project-7a3d9a6ab104?source=rss-e88756b73479------2)
 - [Top 5 Data Engineering Projects You Can’t Afford to Miss](https://blog.stackademic.com/top-5-data-engineering-projects-you-cant-afford-to-miss-8764a6de6e99?source=rss-e88756b73479------2)
 - [Kubernetes for Data Engineering: An End-to-End Guide](https://blog.stackademic.com/kubernetes-for-data-engineering-an-end-to-end-guide-26c741a8c013?source=rss-e88756b73479------2)
