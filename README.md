@@ -38,8 +38,8 @@
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
 - [Apache Spark vs Apache Flink: Choosing the Right Tools and Technologies](https://medium.com/@yusuf.ganiyu/apache-spark-vs-apache-flink-choosing-the-right-tools-and-technologies-965d5caa9495?source=rss-e88756b73479------2)
-- [End to End Data Engineering for Data Lakehouse with Airflow, Minio, Kafka, Apache Spark, Apache…](https://medium.com/@yusuf.ganiyu/end-to-end-data-engineering-for-data-lakehouse-with-airflow-minio-kafka-apache-spark-apache-f30065f81683?source=rss-e88756b73479------2)
-- [End to End Data Engineering for Data Lakehouse with Airflow, Minio, Kafka, Apache Spark, Apache…](https://medium.com/@yusuf.ganiyu/end-to-end-data-engineering-data-lakehouse-with-airflow-minio-kafka-apache-spark-apache-flink-b4a33e6e41bf?source=rss-e88756b73479------2)
+- [End to End Data Engineering for Data Lakehouse with Airflow, Minio, Kafka, Apache Spark, Apache…](https://medium.com/towards-data-engineering/end-to-end-data-engineering-for-data-lakehouse-with-airflow-minio-kafka-apache-spark-apache-f30065f81683?source=rss-e88756b73479------2)
+- [End to End Data Engineering for Data Lakehouse with Airflow, Minio, Kafka, Apache Spark, Apache…](https://medium.com/towards-data-engineering/end-to-end-data-engineering-data-lakehouse-with-airflow-minio-kafka-apache-spark-apache-flink-b4a33e6e41bf?source=rss-e88756b73479------2)
 - [10 Steps to Data Mastery: The Ultimate Guide to Achieving Data Mastery](https://medium.com/towards-data-engineering/10-steps-to-data-mastery-the-ultimate-guide-to-becoming-a-master-in-your-domain-477b7a1d0214?source=rss-e88756b73479------2)
 - [Real-Time Streaming Pipelines for Unstructured Data: An AWS End to End Data Engineering](https://towardsaws.com/real-time-streaming-pipelines-for-unstructured-data-an-aws-end-to-end-data-engineering-5ad3a0b77b05?source=rss-e88756b73479------2)
 <!-- MEDIUM-STORY-LIST:END -->
