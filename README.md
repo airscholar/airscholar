@@ -37,7 +37,7 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
-- [Decodable vs. AWS Managed Service for Apache Flink &lpar;MSF&rpar;: An End-to-End Data Engineering Showdown](https://medium.com/@yusuf.ganiyu/decodable-vs-aws-managed-service-for-apache-flink-msf-an-end-to-end-data-engineering-showdown-628ecf0428a8?source=rss-e88756b73479------2)
+- [Decodable vs. AWS Managed Service for Apache Flink &lpar;MSF&rpar;: An End-to-End Data Engineering Showdown](https://medium.com/towards-data-engineering/decodable-vs-aws-managed-service-for-apache-flink-msf-an-end-to-end-data-engineering-showdown-628ecf0428a8?source=rss-e88756b73479------2)
 - [Apache Spark vs Apache Flink: Choosing the Right Tools and Technologies](https://medium.com/@yusuf.ganiyu/apache-spark-vs-apache-flink-choosing-the-right-tools-and-technologies-965d5caa9495?source=rss-e88756b73479------2)
 - [End to End Data Engineering for Data Lakehouse with Airflow, Minio, Kafka, Apache Spark, Apache…](https://medium.com/towards-data-engineering/end-to-end-data-engineering-for-data-lakehouse-with-airflow-minio-kafka-apache-spark-apache-f30065f81683?source=rss-e88756b73479------2)
 - [End to End Data Engineering for Data Lakehouse with Airflow, Minio, Kafka, Apache Spark, Apache…](https://medium.com/towards-data-engineering/end-to-end-data-engineering-data-lakehouse-with-airflow-minio-kafka-apache-spark-apache-flink-b4a33e6e41bf?source=rss-e88756b73479------2)
