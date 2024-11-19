@@ -43,21 +43,4 @@
 - [Apache Spark vs Apache Flink: Choosing the Right Tools and Technologies](https://medium.com/@yusuf.ganiyu/apache-spark-vs-apache-flink-choosing-the-right-tools-and-technologies-965d5caa9495?source=rss-e88756b73479------2)
 - [End to End Data Engineering for Data Lakehouse with Airflow, Minio, Kafka, Apache Spark, Apache…](https://medium.com/towards-data-engineering/end-to-end-data-engineering-for-data-lakehouse-with-airflow-minio-kafka-apache-spark-apache-f30065f81683?source=rss-e88756b73479------2)
 <!-- MEDIUM-STORY-LIST:END -->
-
-## StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by Yusuf Ganiyu for What&#39;s the correct ES index](https://stackoverflow.com/questions/77381493/whats-the-correct-es-index/77382484#77382484)
-- [Answer by Yusuf Ganiyu for Cannot access task instance to get xcom](https://stackoverflow.com/questions/77302772/cannot-access-task-instance-to-get-xcom/77307266#77307266)
-- [Answer by Yusuf Ganiyu for Cannot access task instance to get xcom](https://stackoverflow.com/questions/77302772/cannot-access-task-instance-to-get-xcom/77303461#77303461)
-- [Answer by Yusuf Ganiyu for How to extract and download web scrape image using BeautifulSoup Selenium Python?](https://stackoverflow.com/questions/77297420/how-to-extract-and-download-web-scrape-image-using-beautifulsoup-selenium-python/77297483#77297483)
-- [Answer by Yusuf Ganiyu for How to extract and download web scrape image using BeautifulSoup Selenium Python?](https://stackoverflow.com/questions/77297420/how-to-extract-and-download-web-scrape-image-using-beautifulsoup-selenium-python/77297430#77297430)
-<!-- STACKOVERFLOW:END -->
-
-## ⚡ Github Stats
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=airscholar)](https://github.com/airscholar/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airscholar&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
-
-## 🔥 Github Streaks</b></summary>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=airscholar&hide_border=true" />
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=airscholar&label=Profile%20views&color=0e75b6&style=flat" alt="airscholar" /></p>
