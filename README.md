@@ -1,26 +1,37 @@
-## Hey there 👋, I'm [Yusuf!](https://github.com/airscholar/)
+# 👋 Hi, I'm Yusuf Ganiyu (@airscholar)
 
-<center>
-<a href="https://www.linkedin.com/in/yusuf-ganiyu-b90140107/?locale=en_US" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
- <a href="https://medium.com/@yusuf.ganiyu" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
-  </a>
-  <a href="https://stackoverflow.com/users/6070546/yusuf-ganiyu" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=071A2C" alt="Stackoverflow"/>
-  </a>
-  <a href="https://dev.to/airscholar" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C" alt="Dev.to"/>
-</center>
+## 🚀 About Me
+Data Engineer @AstraZeneca | Founder @DataMasteryLab | AI & Big Data Architect | YouTuber @CodeWithYu | Teaching 50K+ students worldwide
 
-## 👨🏻‍🎓 Academic experience:
-  - **Master of Science**: Computational Intelligence and Data Analytics at [Cranfield University](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics)
+I build AI-powered, production-grade data systems and architect big data solutions for the future:
+- 🤖 AI & Machine Learning (MLOps, LLMs, Generative AI, Vector Databases)
+- 🔧 Big Data Engineering (Spark, Kafka, Airflow, Flink, dbt)
+- ☁️ Cloud & Distributed Systems
+- 📊 Real-time Streaming & Intelligent Analytics
+- 🧠 AI-Native Data Platforms & Data Mesh
 
-### 📝 I regularly write articles:
-  - On [Medium](https://medium.com/@yusuf.ganiyu) about programing, data science and AI
-  - On [HackerNoon](https://hackernoon.com/u/airscholar) about programing, data science and AI
-  - On [Dev.to](https://dev.to/airscholar) about programing, data science and AI
+## 🌟 Focus Areas
+Building the future of data with:
+- Generative AI integration into data pipelines
+- Real-time ML systems and intelligent data workflows
+- Scalable big data architectures for AI workloads
+- LLM fine-tuning and RAG (Retrieval-Augmented Generation)
+- Next-gen data platforms and AI-powered analytics
+
+## 📝 Where to Find Me
+- 📚 [Data Mastery Lab](https://datamasterylab.com) - My AI & Data educational platform
+- 🎥 [YouTube - Code With Yu](https://youtube.com/@CodeWithYu) - End-to-end data engineering tutorials
+- ✍️ [Medium](https://medium.com/@yusuf.ganiyu) - 3K+ followers | Writing about AI, Big Data & Future Tech
+- 💼 [LinkedIn](https://linkedin.com/in/yusuf-ganiyu) - Let's connect!
+- 🎓 Udemy - Teaching AI-powered data engineering & emerging technologies
+
+## 🎓 Background
+MSc in Computational Intelligence and Data Analytics | Cranfield University
+
+## 🌟 Mission
+Empowering the next generation of data & AI professionals to build intelligent, scalable, future-ready solutions.
+
+📫 Let's collaborate on AI and big data projects!
 
 ## 📺 Latest Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
