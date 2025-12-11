@@ -22,6 +22,7 @@ Building the future of data with:
 - 📚 [Data Mastery Lab](https://datamasterylab.com) - My AI & Data educational platform
 - 🎥 [YouTube - Code With Yu](https://youtube.com/@CodeWithYu) - End-to-end data engineering tutorials
 - ✍️ [Medium](https://medium.com/@yusuf.ganiyu) - 3K+ followers | Writing about AI, Big Data & Future Tech
+- 📰 [Substack](https://datainproduction.substack.com/) | Writing about Big Data, ML, AI, AI Agents & Future Tech
 - 💼 [LinkedIn](https://linkedin.com/in/yusuf-ganiyu) - Let's connect!
 - 🎓 Udemy - Teaching AI-powered data engineering & emerging technologies
 
